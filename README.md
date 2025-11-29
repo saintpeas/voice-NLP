@@ -149,8 +149,8 @@ LibriSpeech ASR corpus samples are loaded via HuggingFace datasets:
 ## Test Video
 
 ### Application Demo
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1J4VDla_75JfRfcv_2FgwrLbQ0T33tXzE/view)
 
-[https://drive.google.com/uc?export=view&id=1J4VDla_75JfRfcv_2FgwrLbQ0T33tXzE]
 
 **Video showcases**:
 - Application startup and model loading
